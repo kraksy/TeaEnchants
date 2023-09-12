@@ -1,0 +1,4 @@
+name: TeaEnchants
+version: '${project.version}'
+main: teamc.teaenchants.TeaEnchants
+api-version: '1.20'
